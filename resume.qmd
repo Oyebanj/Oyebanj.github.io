@@ -1,89 +1,67 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Opeyemi's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Opeyemi Oyebanji
+Analyst, Business, COnsultant.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="Oye20004@byui.edu">
+| <a href="oyebanjiopeyemio@gmail.com">My gmail</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+A Business Analytics major student at Brigham Young University - Idaho, with a passion for data analysis and problem-solving.
 
-### Specialized in
+### Skills
+Microsoft Office, Time Management, Public Relations, Customer Service, Team and Collaboration, Problem-Solving, Organization and Record-Keeping
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Jan 2023 - Present`
+__Brigham Young University – Idaho Rexburg, Idaho__
+Bachelor of Science in Business Analytics 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Feb 2021`
+__Aeroport College of Aviation and Travel Management Nigeria__
 
-- Sizar
+- Customer Service Specialist Certificate /
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Work Experience
+`Mar 2023 – Present`
+__Library Aide__, McKay Library, Brigham Young University, Idaho Rexburg, Idaho
 
-- Fellow
+- Facilitate the efficient acquisition, evaluation, and organization of library resources for patrons, managing a 
+diverse collection exceeding 100,000 volumes and periodicals. 
+- Collaborate closely with a team of 30+ aides and librarians to cultivate an environment conducive to academic 
+inquiry and research for patrons and faculty.
+- Maintain library organization by arranging materials according to the Library of Congress system, improving search 
+accessibility.
 
+`Jan 2022 – Nov 2022`
+__Educational Travel Consultant__, Nigeria
 
+- Delivered personalized educational consultation services, addressing inquiries, and resolving concerns for a 
+clientele exceeding 10 individuals.
+- Provided expert guidance to students regarding study prerequisites through diverse social platforms, resulting in 
+a 5% increase in follower engagement.
+- Demonstrated a commitment to responsiveness and problem-solving, ensuring timely resolution of customer 
+needs.
+- Proactively pursued ongoing professional development initiatives, enhancing company efficiency by 5%.
 
-## Awards
+`Nov 2017 – June 2019`
+__VOLUNTEER EXPERIENCE__, Voluntary Missionary Service, The Church of Jesus Christ of Latter-day Saints Benin City, Nigeria
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Strategically planned and executed daily and weekly goals, transforming objectives into actionable initiatives.
+- Maintained accurate daily records essential for future reference and reporting purposes.
+- Led and supported a team of 5+ missionaries, promoting motivation, assessing progress, and ensuring well-being.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2024 -->
